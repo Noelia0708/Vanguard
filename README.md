@@ -86,14 +86,13 @@ Porcentajes Control vs Test
 Estructura actualizada del repositorio:
 
 📂 VANGUARD
-
  ┣ 📁 CSV
-   ┃ ┣ 📄 cliente_objetivo y cliente_promedio.csv
-   ┃ ┣ 📄 df_demo_final.txt
-   ┃ ┣ 📄 df_clientes_experimento_final.txt
-   ┃ ┣ 📄 df_final_web_data_pt_1.txt
-   ┃ ┗ 📄 df_final_web_data_pt_2.txt
- 
+ ┃ ┣ 📄 cliente_objetivo y cliente_promedio.csv
+ ┃ ┣ 📄 df_demo_final.txt
+ ┃ ┣ 📄 df_clientes_experimento_final.txt
+ ┃ ┣ 📄 df_final_web_data_pt_1.txt
+ ┃ ┗ 📄 df_final_web_data_pt_2.txt
+
  ┣ 📄 .gitignore                                    # Configuración de Git
  
  ┣ 📄 Proyecto5.ipynb                               # Notebook con análisis y tabla final
