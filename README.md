@@ -87,6 +87,7 @@ Estructura actualizada del repositorio:
  ┃ ┣ 📄 df_clientes_experimento_final.txt
  ┃ ┣ 📄 df_final_web_data_pt_1.txt
  ┃ ┗ 📄 df_final_web_data_pt_2.txt
+ 
  ┣ 📄 .gitignore                                    # Configuración de Git
  ┣ 📄 Proyecto5.ipynb                               # Notebook con análisis y tabla final
  ┣ 📄 README.md                                     # Documentación del proyecto
