@@ -86,6 +86,7 @@ La interfaz Test obtiene mejores resultados en todos los indicadores, demostrand
 Estructura actualizada del repositorio:
 
 📂 VANGUARD
+
  ┣ 📁 CSV 
  
      ┃ ┣ 📄 cliente_objetivo y cliente_promedio.csv
